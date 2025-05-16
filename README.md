@@ -30,3 +30,36 @@
   <br/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
 </div>
+
+## Development Log
+
+<table>
+  <tr>
+    <th align="left">Period</th>
+    <th align="left">Name</th>
+    <th align="left">Type</th>
+    <th align="left">Role</th>
+    <th align="left">Repository</th>
+  </tr>
+  <tr>
+    <td>2024.03 - 2024.05</td>
+    <td>ApexCharts OSS Contribution</td>
+    <td>Team</td>
+    <td>Module Refactor / HMR</td>
+    <td><a href="https://github.com/yourname/apexcharts-contribution">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>2023.09 - 2023.12</td>
+    <td>Japan Real Estate Map</td>
+    <td>Personal</td>
+    <td>Fullstack</td>
+    <td><a href="https://github.com/yourname/japan-realestate-map">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>2023.04 - 2023.08</td>
+    <td>Tax Simulator</td>
+    <td>Team</td>
+    <td>Frontend</td>
+    <td><a href="https://github.com/yourname/tax-sim-webapp">GitHub</a></td>
+  </tr>
+</table>
