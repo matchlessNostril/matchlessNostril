@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>2025.05 ~ ing</td>
-    <td>Japanese Learning App<br/>(Renewal of WordMaster)</td>
+    <td>Japanese Learning App<br/>(Renewal)</td>
     <td>Personal</td>
     <td>FullStack</td>
     <td><a href="https://github.com/matchlessNostril/ben-kyoh">Repository</a></td>
