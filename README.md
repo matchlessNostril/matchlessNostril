@@ -72,7 +72,7 @@
     <td>Cat Water Intake Management App</td>
     <td>Team</td>
     <td>FrontEnd</td>
-    <td><a href="https://github.com/matchlessNostril/MulMeokNyang">Repository</a></td>
+    <td><a href="https://github.com/matchlessNostril/SquidGame">Repository</a></td>
   </tr>
   <tr>
     <td>2021.10 ~ 2021.12</td>
