@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
 </div>
 
-## Development Log
+## Development History
 
 <table>
   <tr>
@@ -42,24 +42,43 @@
     <th align="left">Repository</th>
   </tr>
   <tr>
-    <td>2024.03 - 2024.05</td>
-    <td>ApexCharts OSS Contribution</td>
-    <td>Team</td>
-    <td>Module Refactor / HMR</td>
-    <td><a href="https://github.com/yourname/apexcharts-contribution">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>2023.09 - 2023.12</td>
-    <td>Japan Real Estate Map</td>
+    <td>2025.05 ~ ing</td>
+    <td>Japanese Learning App<br/>(Renewal of WordMaster)</td>
     <td>Personal</td>
-    <td>Fullstack</td>
-    <td><a href="https://github.com/yourname/japan-realestate-map">GitHub</a></td>
+    <td>FullStack</td>
+    <td><a href="https://github.com/matchlessNostril/ben-kyoh">Repository</a></td>
   </tr>
   <tr>
-    <td>2023.04 - 2023.08</td>
-    <td>Tax Simulator</td>
+    <td>2024.03 ~ 2025.01</td>
+    <td>Real Estate Tax Consulting Tool</td>
+    <td>Company<br/>(여러분의 PB, 여피)</td>
+    <td>FrontEnd</td>
+    <td>Private<br/>(see the actvity log below)</td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center">
+      <img src="https://github.com/user-attachments/assets/33eff459-65fd-4d72-85a7-ffc4ee8d4ff9" width="600" />
+    </td>
+  </tr>
+  <tr>
+    <td>2024.01 ~ 2024.02</td>
+    <td>Japanese Learning App</td>
+    <td>Personal</td>
+    <td>FrontEnd</td>
+    <td><a href="https://github.com/matchlessNostril/WordMaster">Repository</a></td>
+  </tr>
+  <tr>
+    <td>2023.10 ~ 2023.11</td>
+    <td>Cat Water Intake Management App</td>
     <td>Team</td>
-    <td>Frontend</td>
-    <td><a href="https://github.com/yourname/tax-sim-webapp">GitHub</a></td>
+    <td>FrontEnd</td>
+    <td><a href="https://github.com/matchlessNostril/MulMeokNyang">Repository</a></td>
+  </tr>
+  <tr>
+    <td>2021.10 ~ 2021.12</td>
+    <td>Squid Game Themed Web Game</td>
+    <td>Team</td>
+    <td>FrontEnd</td>
+    <td><a href="https://github.com/matchlessNostril/WordMaster">Repository</a></td>
   </tr>
 </table>
