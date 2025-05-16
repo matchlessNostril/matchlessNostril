@@ -64,7 +64,7 @@
     <td>2024.01 ~ 2024.02</td>
     <td>Japanese Learning App</td>
     <td>Personal</td>
-    <td>FrontEnd</td>
+    <td>FullStack</td>
     <td><a href="https://github.com/matchlessNostril/WordMaster">Repository</a></td>
   </tr>
   <tr>
@@ -72,13 +72,13 @@
     <td>Cat Water Intake Management App</td>
     <td>Team</td>
     <td>FrontEnd</td>
-    <td><a href="https://github.com/matchlessNostril/SquidGame">Repository</a></td>
+    <td><a href="https://github.com/matchlessNostril/MulMeokNyang">Repository</a></td>
   </tr>
   <tr>
     <td>2021.10 ~ 2021.12</td>
     <td>Squid Game Themed Web Game</td>
     <td>Team</td>
     <td>FrontEnd</td>
-    <td><a href="https://github.com/matchlessNostril/WordMaster">Repository</a></td>
+    <td><a href="https://github.com/matchlessNostril/SquidGame">Repository</a></td>
   </tr>
 </table>
