@@ -24,8 +24,6 @@
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Next.js (App Router)-000000?style=flat&logo=Next.js&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Zustand-ECD53F?style=flat" />
-  <br/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
 </div>
 
