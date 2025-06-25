@@ -20,13 +20,6 @@
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
 </div>
 
-### 🌱 Learning
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Next.js (App Router)-000000?style=flat&logo=Next.js&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
-</div>
-
 ## Development History
 
 <table>
@@ -36,13 +29,6 @@
     <th align="left">Type</th>
     <th align="left">Role</th>
     <th align="left">Repository</th>
-  </tr>
-  <tr>
-    <td>2025.05 ~ ing</td>
-    <td>Japanese Learning App<br/>(Renewal)</td>
-    <td>Personal</td>
-    <td>FullStack</td>
-    <td><a href="https://github.com/matchlessNostril/ben-kyoh">Repository</a></td>
   </tr>
   <tr>
     <td>2024.03 ~ 2025.01</td>
