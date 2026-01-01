@@ -16,8 +16,10 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" />
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
   <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=white"/>
 </div>
 
 ## Development History
@@ -32,8 +34,8 @@
   </tr>
   <tr>
     <td>2024.03 ~ 2025.01</td>
-    <td>Real Estate Tax Consulting Tool</td>
-    <td>Company<br/>(여러분의 PB, 여피)</td>
+    <td>不動産税務コンサルティングツール</td>
+    <td>皆さんのPB、「ヨピ」（スタートアップ）</td>
     <td>FrontEnd</td>
     <td>Private<br/>(see the actvity log below)</td>
   </tr>
@@ -43,23 +45,23 @@
     </td>
   </tr>
   <tr>
-    <td>2024.01 ~ 2024.02</td>
-    <td>Japanese Learning App</td>
-    <td>Personal</td>
+    <td>2024.01 ~ 2024.02 & 2025.11</td>
+    <td>日本語単語暗記サイト、「WordMaster」</td>
+    <td>個人プロジェクト</td>
     <td>FullStack</td>
     <td><a href="https://github.com/matchlessNostril/WordMaster">Repository</a></td>
   </tr>
   <tr>
-    <td>2023.10 ~ 2023.11</td>
-    <td>Cat Water Intake Management App</td>
-    <td>Team</td>
+    <td>2023.10 ~ 2023.12</td>
+    <td>飼い猫の水分摂取量管理アプリ「Mul-Meok-Nyang（水・食べる・ニャン）」</td>
+    <td>チームプロジェクト</td>
     <td>FrontEnd</td>
     <td><a href="https://github.com/matchlessNostril/MulMeokNyang">Repository</a></td>
   </tr>
   <tr>
     <td>2021.10 ~ 2021.12</td>
-    <td>Squid Game Themed Web Game</td>
-    <td>Team</td>
+    <td>イカゲームをテーマにしたウェブゲームサイト</td>
+    <td>チームプロジェクト</td>
     <td>FrontEnd</td>
     <td><a href="https://github.com/matchlessNostril/SquidGame">Repository</a></td>
   </tr>
